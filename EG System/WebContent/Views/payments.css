@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+body{
+	background-image:url(https://images.pexels.com/photos/4862892/pexels-photo-4862892.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-position: center;
+	backgraound-repeat:no-repeat;
+	background-size:cover;
+}
+
+.color input{ background-color:#f1f1f1;}
+
+h1{
+	text-align:center;
+	color:#000080;
+    padding-bottom: 0px;
+    margin-bottom:2px;
+}
+h4{
+	text-align: left;
+	padding-top:0px;
+	padding-bottom: 10px;
+}
+#divPaymentsGrid{
+	color:#000000;
+	font-weight:600;
+	
+}
+#formPayments{
+	color:#222831;
+
+	border: 1px solid #0E185F;;
+	padding: 25px;
+
+}
+body img{
+	position:center;
+	background-size:cover;
+	background-repeat:none;
+}
+#btnSave{
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:40px;
+	padding-right:40px;
+	margin-left:100px;
+}
